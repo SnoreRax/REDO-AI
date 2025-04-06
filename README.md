@@ -2,9 +2,11 @@
 
 ## Group Members
 
-Group Leader: Javines, Justine Kienth
-Data Analyst: Dolorito, Jmar Resonable
-Software Developer: Sian, David Anthony
+**Project Lead:** Javines, Justine Kienth
+
+**Data Analyst:** Dolorito, Jmar Resonable
+
+**Software Developer:** Sian, David Anthony
 
 ## Project Description
 
